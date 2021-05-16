@@ -1,1 +1,1 @@
-#music-js
+![demo](https://github.com/Abhijith14/music-js/blob/master/readme_assets/demo.png)
